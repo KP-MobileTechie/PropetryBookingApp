@@ -70,6 +70,11 @@ Ensure you have the following installed on your system:
   ```bash
   npm start -- --reset-cache
   ```
+## Watch the Setup Video
+
+You can download or view the tutorial video from the project folder:
+
+[Download Video](ExpoRouter.mov)
 
 ## License
 

@@ -1,6 +1,3 @@
-
-Here's the full README content as a code block for you to copy and paste:
-
 ```markdown
 # React Native Expo Project
 

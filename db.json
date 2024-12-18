@@ -1,0 +1,99 @@
+{
+  "properties": [
+    {
+      "id": "1",
+      "title": "Luxury Beach Villa",
+      "description": "Beautiful beachfront villa with stunning ocean views",
+      "price": 500,
+      "location": {
+        "latitude": 25.7617,
+        "longitude": -80.1918,
+        "address": "123 Ocean Drive, Miami Beach, FL"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=800",
+        "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=800"
+      ],
+      "features": [
+        "Pool",
+        "Beach Access",
+        "4 Bedrooms",
+        "WiFi",
+        "Kitchen"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Mountain Retreat",
+      "description": "Cozy cabin in the mountains with spectacular views",
+      "price": 300,
+      "location": {
+        "latitude": 39.5501,
+        "longitude": -105.7821,
+        "address": "456 Pine Road, Breckenridge, CO"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=800",
+        "https://images.unsplash.com/photo-1542718610-a1d656d1884c?w=800"
+      ],
+      "features": [
+        "Fireplace",
+        "Hot Tub",
+        "3 Bedrooms",
+        "Mountain View",
+        "Parking"
+      ]
+    }
+  ],
+  "bookings": [
+    {
+      "id": "1",
+      "propertyId": 1,
+      "userId": "user123",
+      "checkIn": "2024-03-15",
+      "checkOut": "2024-03-20",
+      "totalPrice": 2500,
+      "status": "confirmed"
+    },
+    {
+      "id": "bb3e",
+      "propertyId": "1",
+      "checkIn": "17/2/2024",
+      "checkOut": "22/3/2024",
+      "totalPrice": null,
+      "status": "Confirmed"
+    },
+    {
+      "id": "a61e",
+      "propertyId": "2",
+      "checkIn": "11/2/2024",
+      "checkOut": "13/2/2024",
+      "totalPrice": null,
+      "status": "Confirmed"
+    },
+    {
+      "id": "2e6e",
+      "propertyId": "2",
+      "checkIn": "17/12/2024",
+      "checkOut": "18/12/2024",
+      "totalPrice": null,
+      "status": "Confirmed"
+    },
+    {
+      "id": "afcd",
+      "propertyId": "1",
+      "checkIn": "12/12/2024",
+      "checkOut": "14/12/2024",
+      "totalPrice": null,
+      "status": "Confirmed"
+    }
+  ],
+  "users": [
+    {
+      "id": "user123",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400"
+    }
+  ]
+}

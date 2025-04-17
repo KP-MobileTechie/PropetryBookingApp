@@ -77,7 +77,7 @@ You can download app video:
 <body>
 
 <video width="320" height="240" controls>
-  <source src="ExpoRouter.mov" type="video/mov">
+  <source src="/ExpoRouter.mov" type="video/mp4">
 </video>
 
 </body>

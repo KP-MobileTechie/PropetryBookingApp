@@ -72,7 +72,7 @@ Ensure you have the following installed on your system:
 You can download app video:
 
 [Download Video](ExpoRouter.mov)
-<video src="/ExpoRouter.mov" controls></video>
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
